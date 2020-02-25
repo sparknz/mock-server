@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "name": "Bob",
+            "age": 24,
+            "isActive": true
+        },
+        {
+            "name": "Amanda",
+            "age": 28,
+            "isActive": true
+        },
+        {
+            "name": "John",
+            "age": 40,
+            "isActive": true
+        },
+        {
+            "name": "lisa",
+            "age": 18,
+            "isActive": true
+        },
+        {
+            "name": "Matt",
+            "age": 30,
+            "isActive": true
+        }
+    ]
+}
