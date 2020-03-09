@@ -1,29 +1,34 @@
 {
-    "data": [
-        {
-            "name": "Bob",
-            "age": 24,
-            "isActive": true
-        },
-        {
-            "name": "Amanda",
-            "age": 28,
-            "isActive": true
-        },
-        {
-            "name": "John",
-            "age": 40,
-            "isActive": true
-        },
-        {
-            "name": "lisa",
-            "age": 18,
-            "isActive": true
-        },
-        {
-            "name": "Matt",
-            "age": 30,
-            "isActive": true
-        }
-    ]
+  "data": [
+    {
+      title: "React One",
+      stars: 10,
+      isActive: true
+    },
+    {
+      title: "React Two",
+      stars: 20,
+      isActive: true
+    },
+    {
+      title: "React Three",
+      stars: 0,
+      isActive: false
+    },
+    {
+      title: "React Four",
+      stars: 1,
+      isActive: true
+    },
+    {
+      title: "React Five",
+      stars: 100,
+      isActive: true
+    },
+    {
+      title: "React Six",
+      stars: 45,
+      isActive: false
+    }
+  ]
 }
