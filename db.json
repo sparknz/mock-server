@@ -1,34 +1,34 @@
 {
   "data": [
     {
-      title: "React One",
-      stars: 10,
-      isActive: true
+      "title": "React One",
+      "stars": 10,
+      "isActive": true
     },
     {
-      title: "React Two",
-      stars: 20,
-      isActive: true
+      "title": "React Two",
+      "stars": 20,
+      "isActive": true
     },
     {
-      title: "React Three",
-      stars: 0,
-      isActive: false
+      "title": "React Three",
+      "stars": 0,
+      "isActive": false
     },
     {
-      title: "React Four",
-      stars: 1,
-      isActive: true
+      "title": "React Four",
+      "stars": 1,
+      "isActive": true
     },
     {
-      title: "React Five",
-      stars: 100,
-      isActive: true
+      "title": "React Five",
+      "stars": 100,
+      "isActive": true
     },
     {
-      title: "React Six",
-      stars: 45,
-      isActive: false
+      "title": "React Six",
+      "stars": 45,
+      "isActive": false
     }
   ]
 }
